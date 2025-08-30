@@ -87,8 +87,8 @@
             <p>Kisaran, {{ \Carbon\Carbon::parse($bebasPerpus->tanggal_terbit)->format('d-m-Y') }}</p>
             <p>Kepala Perpustakaan</p>
             <br><br><br>
-            <p><u>Drs. Nama Kepala</u></p>
-            <p>NIP. 19700101 200012 1 001</p>
+            <p><u>Tri Suci Wulandari S. Sos</u></p>
+            
         </div>
     </div>
 

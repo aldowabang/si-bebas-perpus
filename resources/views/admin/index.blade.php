@@ -18,7 +18,7 @@
     <div class="card">
         <div class="card-header d-flex justify-content-between align-items-center">
             <div>
-                <h2 class="card-title mb-0">Data Bebas Perpustakaan</h2>
+                <h2 class="card-title mb-0">Data Bebas Pustaka</h2>
                 <p class="mb-0">Berikut adalah data mahasiswa yang telah mendapatkan surat bebas perpustakaan.</p>
             </div>
             <div>

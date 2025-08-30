@@ -15,6 +15,7 @@ class Student extends Model
         'nim',
         'department',
         'date_of_birth',
+        'phone_number',
         
     ];
 
